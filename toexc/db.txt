@@ -1,0 +1,2 @@
+N1;S1;33;Teacher
+N2;S2;44;Programmer
